@@ -1,6 +1,8 @@
 # ambiverse
-The great things about Universe, is that is not Uni, but can Ambi
+The great things about Universe, is that is not Uni, but can Ambi.
+
 Ambiverse: A Balanced Digital Ecosystem
+
 Ambiverse is a decentralized, blockchain-powered multiverse where nature, technology, and human connection coexist. It is designed as a secure, inclusive environment where users can learn, grow, and engage in meaningful interactions. Ambiverse integrates a unique cryptocurrency called Tonin, operating on an inverted value system that emphasizes ethical and social contributions over material wealth.
 
 Vision
