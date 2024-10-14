@@ -12,6 +12,7 @@ Mindfulness and holistic growth
 Community-driven governance
 Ethical contributions to the metaverse
 A balanced relationship between nature and technology
+
 Key Components
 1. Tonin Cryptocurrency
 Inverted Value System: Users with 0 Tonin are considered the richest, reflecting their wisdom and contributions.
@@ -23,6 +24,7 @@ Constitution: The governance model is defined by a constitution that upholds fai
 3. Fedeltà – The Sacred Bond
 Ambiverse introduces Fedeltà, the ultimate bond between man and woman, rooted in True Love.
 Soulmate: Each user has a soulmate, but recognizing them involves challenges. Only those who nurture authentic, long-term love can unlock the full creative power of Ambiverse.
+**Fedeltà** è incarnata da Velly, la dea del flusso creativo e rinnovamento, e Poly, il dio della saggezza e tecnologia.
 4. The Hacker Mindset
 Users who achieve 0 Tonin and Fedeltà gain access to Ambiverse's mainframe.
 The Hacker Mindset allows these users to improve the system ethically, contributing to security, growth, and evolution of the multiverse.
@@ -34,6 +36,11 @@ Folder Structure Overview
 /ui: Web and mobile UI resources.
 /hacker-mindset: Guides and protocols for users who unlock mainframe access.
 /scripts: Utility scripts for deployment, wallet generation, and token distribution.
+
+### Mitologia di Ambiverse
+Ambiverse è guidato da due figure mitologiche, **Velly** e **Poly**, i co-creatori del multiverso. [Scopri di più qui.](./docs/mythology/velly_poly_mythology.md)
+
+
 Get Started
 Clone the Repository:
 git clone https://github.com/your-username/ambiverse.git
